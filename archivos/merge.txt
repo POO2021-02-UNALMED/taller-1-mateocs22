@@ -1,0 +1,2 @@
+Ya que se creo el textro "respuesta" dentro de la carpeta vacia "archivos", ahora github desktop considera que hay un cambio o adicion al proyecto por lo tanto,
+nos deja visualizar la carpeta, hacer el commit y subirlo a github. 
