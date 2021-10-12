@@ -4,3 +4,5 @@ Aspiraciones:   En mi primera introduccion a POO no me quedo muy claro el tema, 
 primero: entenderlo .
 segundo: Adquirir habilidad para aplicarl POO profesionalmente .
 tercero: Aprender Java.
+Ya que se creo el textro "respuesta" dentro de la carpeta vacia "archivos", ahora github desktop considera que hay un cambio o adicion al proyecto por lo tanto,
+nos deja visualizar la carpeta, hacer el commit y subirlo a github. 
