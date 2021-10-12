@@ -1,0 +1,6 @@
+Nombre: Mateo Carvajal Sánchez.
+Edad: 21 años
+Aspiraciones:   En mi primera introduccion a POO no me quedo muy claro el tema, entonces espero: 
+primero: entenderlo .
+segundo: Adquirir habilidad para aplicarl POO profesionalmente .
+tercero: Aprender Java.
